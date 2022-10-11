@@ -1,0 +1,23 @@
+//Camilla Calle
+
+//Install Arduino IDE and ESP32 Camera add on. 
+
+/*
+To upload code to the ESP32-CAM using Arduino IDE, follow the next steps:
+
+Go to Tools > Board and select AI-Thinker ESP32-CAM. You must have the ESP32 add-on installed. Otherwise, this board won’t show up on the Boards menu.
+
+Go to Tools > Port and select the COM port the ESP32-CAM is connected to.
+
+For demonstration purposes, you can upload a blank sketch to your board:
+void setup() {
+  // put your setup code here, to run once:
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+}
+*/
+//Then upload on Arduino IDE
+//Dots on the debugging window >> press the ESP32-CAM on-board RST button
+//
